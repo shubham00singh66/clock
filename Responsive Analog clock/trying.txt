@@ -1,0 +1,11 @@
+This file contains document which is all about clock which is made in html, css, javascript and also responsive
+
+
+
+
+A clock is a device used to measure, verify, keep, and indicate time. The clock is one of the oldest human inventions, meeting the need to measure intervals of time 
+shorter than the natural units: the day, the lunar month, and the year. Devices operating on several physical processes have been used over the millennia.
+Some predecessors to the modern clock may be considered as "clocks" that are based on movement in nature: A sundial shows the time by displaying 
+the position of a shadow on a flat surface. There is a range of duration timers, a well-known example being the hourglass. Water clocks, along with 
+the sundials, are possibly the oldest time-measuring instruments. A major advance occurred with the invention of the verge escapement, 
+which made possible the first mechanical clocks around 1300 in Europe, which kept time with oscillating timekeepers like balance wheels.[1][2][3][4]
